@@ -3,7 +3,7 @@
 **By Gianpiero Fiorino**
 --- 
 
-# Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Step 1: Changing Default Router Credentials](#step-1-changing-default-router-credentials)
@@ -24,7 +24,7 @@ Cybercrimes are on the rise worldwide. This guide will help you secure your home
 
 ---
 
-# Requirements
+## Requirements
 
 To follow this guide and secure your home Wi-Fi, you will need the following:
 
