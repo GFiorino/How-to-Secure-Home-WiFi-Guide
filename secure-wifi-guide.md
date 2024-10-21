@@ -1,7 +1,20 @@
 # How to Secure Your Home Wi-Fi in 8 Simple Steps
 
 **By Gianpiero Fiorino**
+--- 
+# Table of Contents
 
+1. [Introduction](#introduction)
+2. [Step 1: Changing Default Router Credentials](#step-1-changing-default-router-credentials)
+3. [Step 2: Enabling Network Encryption (WPA3)](#step-2-enabling-network-encryption-wpa3)
+4. [Step 3: Updating Router Firmware](#step-3-updating-router-firmware)
+5. [Step 4: Disable Remote Management](#step-4-disable-remote-management)
+6. [Step 5: Strong Wi-Fi Password](#step-5-strong-wi-fi-password)
+7. [Step 6: Set Up a Guest Network](#step-6-set-up-a-guest-network)
+8. [Step 7: Disable WPS](#step-7-disable-wps)
+9. [Step 8: Enable Firewall & Monitor Network](#step-8-enable-firewall--monitor-network)
+10. [Common Troubleshooting](#common-troubleshooting)
+11. [Glossary](#glossary)
 ---
 
 ## Introduction
