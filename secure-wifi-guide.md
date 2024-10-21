@@ -2,6 +2,7 @@
 
 **By Gianpiero Fiorino**
 --- 
+
 # Table of Contents
 
 1. [Introduction](#introduction)
@@ -23,6 +24,20 @@ Cybercrimes are on the rise worldwide. This guide will help you secure your home
 
 ---
 
+# Requirements
+
+To follow this guide and secure your home Wi-Fi, you will need the following:
+
+1. **Access to Router Configuration Panel**: Typically accessible via an IP address like `192.168.1.1` or `192.168.0.1`.
+2. **Router Login Credentials**: Default credentials can often be found on the router's label.
+3. **Internet Browser**: Any modern browser like **Chrome**, **Firefox**, **Safari**, or **Edge** to access the router's settings.
+4. **Device Connected to the Router**: A **PC, laptop, or smartphone** connected to your Wi-Fi or through an Ethernet cable to make changes to the settings.
+5. **Knowledge of Your Wi-Fi Network Name (SSID)**: Helpful for identifying your network during configuration.
+
+---
+
+These requirements will ensure you have everything needed to successfully follow each of the steps outlined in the guide.
+---
 ## Step 1: Changing Default Router Credentials
 
 ### What it means:
