@@ -1,6 +1,7 @@
 # How to Secure Your Home Wi-Fi in 8 Simple Steps
 
 **By Gianpiero Fiorino**
+
 --- 
 
 ## Table of Contents
@@ -16,6 +17,7 @@
 9. [Step 8: Enable Firewall & Monitor Network](#step-8-enable-firewall--monitor-network)
 10. [Common Troubleshooting](#common-troubleshooting)
 11. [Glossary](#glossary)
+    
 ---
 
 ## Introduction
@@ -34,10 +36,10 @@ To follow this guide and secure your home Wi-Fi, you will need the following:
 4. **Device Connected to the Router**: A **PC, laptop, or smartphone** connected to your Wi-Fi or through an Ethernet cable to make changes to the settings.
 5. **Knowledge of Your Wi-Fi Network Name (SSID)**: Helpful for identifying your network during configuration.
 
+These requirements will ensure you have everything needed to successfully follow each of the steps outlined in the guide. 
+
 ---
 
-These requirements will ensure you have everything needed to successfully follow each of the steps outlined in the guide.
----
 ## Step 1: Changing Default Router Credentials
 
 ### What it means:
