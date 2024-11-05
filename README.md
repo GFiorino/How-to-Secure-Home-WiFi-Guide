@@ -1,159 +1,165 @@
 # How to Secure Your Home Wi-Fi in 8 Simple Steps
 
-**By Gianpiero Fiorino**
+## Overview
 
---- 
+This guide provides a comprehensive approach to enhancing the security of your home Wi-Fi network. By following these eight steps, you can significantly reduce the risk of unauthorized access and protect your personal information.
+
+## Skills Used
+
+- Networking Fundamentals
+- Router Configuration
+- Basic Cybersecurity Practices
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Step 1: Changing Default Router Credentials](#step-1-changing-default-router-credentials)
-3. [Step 2: Enabling Network Encryption (WPA3)](#step-2-enabling-network-encryption-wpa3)
-4. [Step 3: Updating Router Firmware](#step-3-updating-router-firmware)
+2. [Step 1: Change Default Router Credentials](#step-1-change-default-router-credentials)
+3. [Step 2: Enable Network Encryption (WPA3)](#step-2-enable-network-encryption-wpa3)
+4. [Step 3: Update Router Firmware](#step-3-update-router-firmware)
 5. [Step 4: Disable Remote Management](#step-4-disable-remote-management)
-6. [Step 5: Strong Wi-Fi Password](#step-5-strong-wi-fi-password)
+6. [Step 5: Set a Strong Wi-Fi Password](#step-5-set-a-strong-wi-fi-password)
 7. [Step 6: Set Up a Guest Network](#step-6-set-up-a-guest-network)
 8. [Step 7: Disable WPS](#step-7-disable-wps)
 9. [Step 8: Enable Firewall & Monitor Network](#step-8-enable-firewall--monitor-network)
 10. [Common Troubleshooting](#common-troubleshooting)
-11. [Glossary](#glossary)
-    
----
+11. [FAQs](#faqs)
+12. [Glossary](#glossary)
 
 ## Introduction
 
-Cybercrimes are on the rise worldwide. This guide will help you secure your home Wi-Fi in 8 simple steps, improving your network's security by up to 80%. This way, you and your family can navigate the internet more safely while connected to your home Wi-Fi.
+In an era where cyber threats are increasingly prevalent, securing your home Wi-Fi network is essential. This guide outlines eight straightforward steps to bolster your network's security, ensuring a safer online experience for you and your family.
 
----
+## Step 1: Change Default Router Credentials
 
-## Requirements
+**What it Means**: Routers come with default usernames and passwords, which are widely known and can be exploited by attackers.
 
-To follow this guide and secure your home Wi-Fi, you will need the following:
+**How You Do It**:
 
-1. **Access to Router Configuration Panel**: Typically accessible via an IP address like `192.168.1.1` or `192.168.0.1`.
-2. **Router Login Credentials**: Default credentials can often be found on the router's label.
-3. **Internet Browser**: Any modern browser like **Chrome**, **Firefox**, **Safari**, or **Edge** to access the router's settings.
-4. **Device Connected to the Router**: A **PC, laptop, or smartphone** connected to your Wi-Fi or through an Ethernet cable to make changes to the settings.
-5. **Knowledge of Your Wi-Fi Network Name (SSID)**: Helpful for identifying your network during configuration.
-
-These requirements will ensure you have everything needed to successfully follow each of the steps outlined in the guide. 
-
----
-
-## Step 1: Changing Default Router Credentials
-
-### What it means:
-Home routers come with default factory setups. Hackers can easily find this information. Changing the default username and password to something only you know adds an extra layer of security to your home Wi-Fi.
-
-### How you do it:
-1. Check the label on your router for the default username and password.
-2. Log into the router’s admin interface by typing your router's IP address (e.g., 192.168.0.1) into your browser or using the app provided by your internet provider.
-3. Go to **Settings** (or **Admin**).
-4. Change the default username and password with new ones that are at least 7 characters long, including uppercase and lowercase letters, numbers, and special symbols (e.g., &, %, $).
+1. Access your router's admin interface by entering its IP address (e.g., `192.168.1.1`) into your web browser.
+2. Log in using the default credentials (often found on the router's label).
+3. Navigate to the settings to change the username and password.
+4. Choose a strong, unique password combining letters, numbers, and symbols.
 5. Save the changes and log out.
 
----
+*Example Use Case*: Changing the default credentials prevents unauthorized users from easily accessing your router's settings.
 
-## Step 2: Enabling Network Encryption (WPA3)
+## Step 2: Enable Network Encryption (WPA3)
 
-### What it means:
-Encryption scrambles your internet data to prevent unauthorized access. Enabling WPA3 encryption (or WPA2 if WPA3 isn’t available) will make it harder for anyone to spy on your online activities.
+**What it Means**: Encryption protects your data by making it unreadable to unauthorized users. WPA3 is the latest and most secure Wi-Fi encryption standard.
 
-### How you do it:
-1. Log into your router's admin interface.
-2. Go to **Wi-Fi Settings** (or **Wireless**).
-3. Select **Security Mode** (or **Encryption Type**) and choose WPA3 (or WPA2 if WPA3 isn’t available).
-4. Save the changes.
+**How You Do It**:
 
----
+1. Log in to your router's admin interface.
+2. Go to the wireless security settings.
+3. Select WPA3 as the encryption method. If WPA3 is unavailable, choose WPA2.
+4. Save the settings.
 
-## Step 3: Updating Router Firmware
+*Example Use Case*: Enabling WPA3 ensures that data transmitted over your network is encrypted, safeguarding it from eavesdroppers.
 
-### What it means:
-Firmware updates fix vulnerabilities in your router, similar to how a plumber fixes problems in an old house. Without updates, your router may be vulnerable to hackers.
+## Step 3: Update Router Firmware
 
-### How you do it:
-1. Log into your router’s admin interface and go to the **Firmware Update** section.
-2. Look for update notifications.
-3. Download and install available updates.
+**What it Means**: Firmware updates provide security patches and performance improvements for your router.
 
----
+**How You Do It**:
+
+1. Log in to the router's admin interface.
+2. Locate the firmware update section.
+3. Check for available updates.
+4. If an update is available, follow the on-screen instructions to install it.
+5. Allow the router to reboot if necessary.
+
+*Example Use Case*: Regular firmware updates protect your network from known vulnerabilities.
 
 ## Step 4: Disable Remote Management
 
-### What it means:
-Remote Management allows external devices to access your router, similar to leaving a spare key outside your house. It's convenient but poses security risks. If you don’t use this feature, it’s safer to disable it.
+**What it Means**: Remote management allows access to your router's settings from outside your home network, which can be a security risk.
 
-### How you do it:
-1. Log into your router’s admin interface and find **Remote Management** settings.
-2. Click **Disable** (or **Off**).
-3. Save the changes.
+**How You Do It**:
 
----
+1. Log in to the router's admin interface.
+2. Navigate to the remote management settings.
+3. Disable remote management.
+4. Save the changes.
 
-## Step 5: Strong Wi-Fi Password
+*Example Use Case*: Disabling remote management prevents external attempts to access your router's configuration.
 
-### What it means:
-A password acts like a lock for your network. A strong password makes it harder for hackers to access your Wi-Fi.
+## Step 5: Set a Strong Wi-Fi Password
 
-### How you do it:
-1. Log into your router’s admin interface and go to **Wi-Fi Settings** (or **Wireless Security**).
-2. Click on **Change Password** and enter a new password that’s at least 7 characters long, containing uppercase and lowercase letters, numbers, and special symbols.
-3. Save the changes.
+**What it Means**: A strong Wi-Fi password prevents unauthorized users from connecting to your network.
 
----
+**How You Do It**:
+
+1. Log in to the router's admin interface.
+2. Go to the wireless settings.
+3. Set a new Wi-Fi password that is at least 12 characters long, using a mix of letters, numbers, and symbols.
+4. Save the changes.
+
+*Example Use Case*: A robust password ensures that only authorized users can access your Wi-Fi network.
 
 ## Step 6: Set Up a Guest Network
 
-### What it means:
-A guest network provides internet access to your visitors while keeping them separate from your main home network.
+**What it Means**: A guest network allows visitors to access the internet without giving them access to your main network and connected devices.
 
-### How you do it:
-1. Log into your router’s admin interface and go to **Guest Network** settings.
-2. Enable the **Guest Network** and set a separate password for visitors.
-3. Save the changes.
+**How You Do It**:
 
----
+1. Log in to the router's admin interface.
+2. Navigate to the guest network settings.
+3. Enable the guest network.
+4. Set a strong password for the guest network.
+5. Configure the guest network to restrict access to your main network.
+6. Save the settings.
+
+*Example Use Case*: Providing a guest network allows visitors to use your internet connection without compromising your network's security.
 
 ## Step 7: Disable WPS
 
-### What it means:
-WPS (Wi-Fi Protected Setup) is an older, less secure method for connecting devices to a router. Since you already enabled WPA3 (or WPA2), it's safer to disable WPS to prevent potential vulnerabilities.
+**What it Means**: Wi-Fi Protected Setup (WPS) is a feature intended to simplify device connections but has known security vulnerabilities.
 
-### How you do it:
-1. Log into your router’s admin interface and go to **WPS** settings.
-2. Ensure WPS is disabled.
-3. Save the changes.
+**How You Do It**:
 
----
+1. Log in to the router's admin interface.
+2. Locate the WPS settings.
+3. Disable WPS.
+4. Save the changes.
+
+*Example Use Case*: Disabling WPS reduces the risk of unauthorized devices connecting to your network.
 
 ## Step 8: Enable Firewall & Monitor Network
 
-### What it means:
-A firewall is a basic security system that helps block malicious traffic. It’s also wise to regularly check what devices are connected to your network and remove any unknown or suspicious ones.
+**What it Means**: A firewall protects your network by controlling incoming and outgoing traffic. Monitoring your network helps detect suspicious activity.
 
-### How you do it:
-1. Log into your router’s admin interface and go to **Firewall Settings**.
-2. Ensure the firewall is enabled.
-3. Regularly check the **Network Logs** for unknown devices and disconnect any suspicious ones.
-4. Save the changes and log out.
+**How You Do It**:
 
----
+1. Log in to the router's admin interface.
+2. Navigate to the firewall settings.
+3. Enable the firewall.
+4. Set up network monitoring if your router supports it.
+5. Regularly review connected devices and network logs.
+
+*Example Use Case*: Enabling the firewall and monitoring your network help prevent and detect unauthorized access attempts.
 
 ## Common Troubleshooting
 
-- **Wi-Fi Network Not Visible**: Ensure that the router’s SSID (network name) is set to broadcast in the router's settings under "Wireless" or "Wi-Fi". If it's hidden, manually enter the SSID on your device.
-- **Unable to Connect After Changing Wi-Fi Password**: Ensure the correct password is entered, and try forgetting and reconnecting to the network if necessary.
-- **Slow Internet Speed**: Restart the router and modem. Place the router centrally in your home, away from obstacles. Also, check if too many devices are connected.
-- **Unable to Login to the Router**: Use the default username and password on the router label. If these don’t work, reset the router by pressing the reset button (usually a small hole at the back) for 10-15 seconds with a paperclip.
+- **Cannot Access Router Interface**: Ensure your device is connected to the router via Wi-Fi or Ethernet. Verify the correct IP address is being used.
+- **Forgot Router Password**: Perform a factory reset on the router (note: this will erase all settings).
+- **Devices Cannot Connect After Changes**: Re-enter the new Wi-Fi password on your devices. Restart the router if necessary.
 
----
+## FAQs
+
+- **Q: How do I find my router's IP address?**  
+  **A:** It's usually printed on the router's label. Common addresses are `192.168.1.1` or `192.168.0.1`.
+
+- **Q: What if my router doesn't support WPA3?**  
+  **A:** Use WPA2, which is still considered secure. Consider upgrading your router for better security features.
+
+- **Q: How often should I update my router's firmware?**  
+  **A:** Check for updates every few months or enable automatic updates if available.
 
 ## Glossary
 
-- **Internet Browser**: An application to access the internet (e.g., Safari, Chrome).
-- **WPA2/WPA3 Encryption**: Standards used to protect data on Wi-Fi networks. WPA3 is more secure than WPA2.
-- **SSID (Service Set Identifier)**: The name of your Wi-Fi network.
-- **WPS (Wi-Fi Protected Setup)**: A method to connect devices to a router by pressing a button, considered less secure than WPA.
-- **Router Firmware**: Software that controls the router’s functionality, which should be kept up to date.
-- **Firewall**: A system that monitors and controls incoming and outgoing network traffic to prevent malicious activity.
+- **Router**: A device that forwards data between computer networks.
+- **Firmware**: Permanent software programmed into a device's read-only memory.
+- **WPA3**: Wi-Fi Protected Access 3, the latest security protocol for Wi-Fi networks.
+
+::contentReference[oaicite:0]{index=0}
+ 
