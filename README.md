@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GFiorino/How-to-Secure-Home-WiFi-Guide/blob/main/home%20Wi-Fi.png?raw=true" alt="Home Wi-Fi" width="200">
+  <img src="https://github.com/GFiorino/How-to-Secure-Home-WiFi-Guide/blob/main/home%20Wi-Fi.png?raw=true" alt="Home Wi-Fi" width="400">
 </p>
 
 #How to Secure Your Home Wi-Fi in 8 Simple Steps
