@@ -1,4 +1,4 @@
- <img src="https://github.com/GFiorino/How-to-Secure-Home-WiFi-Guide/blob/main/home%20Wi-Fi.png?raw=true" alt="Home Wi-Fi" style="max-width: 10%; height: auto;">
+ <img src="https://github.com/GFiorino/How-to-Secure-Home-WiFi-Guide/blob/main/home%20Wi-Fi.png?raw=true" alt="Home Wi-Fi" style="max-width: 20%; height: 20%;">
 # How to Secure Your Home Wi-Fi in 8 Simple Steps
 
 ## Overview
