@@ -1,58 +1,38 @@
-README.md
+# README.md
 
-How to Secure Your Home Wi-Fi
+# How to Secure Your Home Wi-Fi
 
-Welcome to the Home Wi-Fi Security Guide, a step-by-step guide to securing your home network. This documentation provides essential tips and troubleshooting methods to help users protect their Wi-Fi from cyber threats.
+Welcome to the Home Wi-Fi Security Guide, a step-by-step resource designed to help users secure their home networks against cyber threats. This documentation provides essential best practices, troubleshooting steps, and frequently asked questions to enhance network security and protect against unauthorized access.
 
-📌 What This Guide Covers
+## Table of Contents
 
-Introduction: Why securing Wi-Fi is essential
+1. [Introduction](introduction.md) - Understanding the importance of Wi-Fi security
+2. [Step-by-Step Guide](docs/steps.md) - Eight essential steps to secure your network
+3. [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
+4. [Frequently Asked Questions](docs/faq.md) - Answers to common security concerns
+5. [Glossary](docs/glossary.md) - Key technical terms explained
+6. [Resources](docs/resources.md) - Additional references and tools
+7. [Contributing](CONTRIBUTING.md) - How to contribute to this guide
 
-Step-by-Step Guide: 8 key steps to securing your network
+## Who This Guide Is For
 
-Troubleshooting: Common issues and how to fix them
+This guide is intended for:
 
-FAQs: Answers to common Wi-Fi security questions
+- Home users looking to strengthen their Wi-Fi security.
+- Small business owners securing their office networks.
+- IT beginners who need step-by-step instructions on best security practices.
 
-Glossary: Key technical terms explained
+## How to Use This Guide
 
-Resources: Additional tools and references
+Each section provides structured, easy-to-follow instructions on improving your Wi-Fi security. Use the links in the Table of Contents to navigate directly to the relevant topic. If you encounter issues, refer to the troubleshooting and FAQ sections for quick solutions.
 
-📖 Who Is This For?
+## Contribution and Feedback
 
-This guide is designed for:
+Contributions to improve this guide are welcome. Please refer to the [Contributing](CONTRIBUTING.md) section for guidelines on submitting updates or enhancements.
 
-Home users who want a safer network
+For any questions or suggestions, contact [gianpierofiorino@icloud.com](mailto:gianpierofiorino@icloud.com).
 
-Small business owners securing office Wi-Fi
+---
 
-IT beginners looking for step-by-step guidance
-
-🚀 How to Use This Guide
-
-Click on any section above to get started. Follow the instructions carefully to improve your Wi-Fi security.
-
-📢 Want to contribute? Check out our CONTRIBUTING.md file.
-
-introduction.md
-
-Why Securing Your Home Wi-Fi Matters
-
-A weak Wi-Fi setup can expose your personal data, smart devices, and banking information to cyber threats. Hackers can exploit insecure networks to steal credentials, install malware, or monitor your internet activity.
-
-🔹 Risks of an Unsecured Wi-Fi
-
-✔ Data theft – Hackers can intercept unencrypted traffic.
-✔ Network hijacking – Malicious users can take over your connection.
-✔ Device control – Compromised smart devices can be manipulated.
-✔ Bandwidth theft – Unwanted users slow down your internet.
-
-🔹 Benefits of a Secure Network
-
-✔ Stronger data privacy – Encryption protects sensitive info.
-✔ Prevents hacking attempts – Firewall & security features block intruders.
-✔ Better performance – Keeps unwanted users off your network.
-✔ Safer smart devices – Protects IoT gadgets from attacks.
-
-📌 Next: Learn how to secure your Wi-Fi in Steps.
+This documentation follows industry best practices for structured, accessible, and user-friendly technical writing.
 
