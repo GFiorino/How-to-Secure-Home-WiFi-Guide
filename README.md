@@ -1,5 +1,3 @@
-# README.md
-
 # How to Secure Your Home Wi-Fi
 
 Welcome to the Home Wi-Fi Security Guide, a step-by-step resource designed to help users secure their home networks against cyber threats. This documentation provides essential best practices, troubleshooting steps, and frequently asked questions to enhance network security and protect against unauthorized access.
