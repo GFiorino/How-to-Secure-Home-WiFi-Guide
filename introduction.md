@@ -1,54 +1,26 @@
-# CONTRIBUTING.md
+# Introduction
 
-# Contributing to the Home Wi-Fi Security Guide
+## Understanding the Importance of Wi-Fi Security
 
-Thank you for your interest in contributing to this project. Contributions help improve the quality and accuracy of this guide, making it more useful for all users.
+A secure Wi-Fi network is essential for protecting personal data, preventing unauthorized access, and ensuring a reliable internet connection. An unsecured network can expose users to cyber threats, data breaches, and performance issues.
 
-## How to Contribute
+### Risks of an Unsecured Wi-Fi Network
+- **Unauthorized Access** – Hackers or neighbors may access your network, leading to bandwidth theft and potential data exposure.
+- **Data Interception** – Unencrypted connections can be exploited to intercept sensitive information, including passwords and financial data.
+- **Malware and Cyberattacks** – Weak security settings may allow attackers to install malware or launch cyberattacks against connected devices.
+- **Device Hijacking** – Smart home devices can be remotely accessed and controlled if they are on an unsecured network.
 
-### 1. Fork the Repository
-Create a copy of this repository by clicking the **Fork** button at the top right of the repository page.
+### Benefits of a Secure Wi-Fi Network
+- **Enhanced Data Privacy** – Encryption prevents unauthorized users from accessing your online activities.
+- **Better Network Performance** – Keeps bandwidth usage under control by limiting access to authorized devices.
+- **Improved Device Security** – Protects connected devices, including laptops, smartphones, and IoT gadgets.
+- **Prevention of Cyber Threats** – Reduces the risk of hacking attempts, malware infections, and unauthorized monitoring.
 
-### 2. Clone Your Fork
-Clone the repository to your local machine using the following command:
-```sh
- git clone https://github.com/your-username/How-to-Secure-Home-WiFi-Guide.git
-```
+### Who Should Follow This Guide?
+This guide is designed for:
+- Home users looking to secure their Wi-Fi against cyber threats.
+- Small business owners who want to maintain a protected office network.
+- IT beginners and general users who need step-by-step instructions for setting up a secure Wi-Fi connection.
 
-### 3. Create a New Branch
-Before making changes, create a new branch:
-```sh
- git checkout -b feature-branch-name
-```
-
-### 4. Make Your Changes
-Edit the documentation files using Markdown (`.md`). Ensure that:
-- Content is clear and well-structured.
-- Grammar and spelling are correct.
-- Technical information is accurate.
-
-### 5. Commit Your Changes
-Once you have made your changes, commit them with a descriptive message:
-```sh
- git commit -m "Updated troubleshooting section with new solutions"
-```
-
-### 6. Push to Your Fork
-Push your changes to your forked repository:
-```sh
- git push origin feature-branch-name
-```
-
-### 7. Submit a Pull Request
-Go to the original repository on GitHub and click **New Pull Request**. Select your branch and provide a clear explanation of the changes you made.
-
-## Contribution Guidelines
-- Follow the existing document structure and formatting.
-- Ensure all information is accurate and up to date.
-- Avoid adding unnecessary content that does not contribute to the guide’s purpose.
-
-For any questions, feel free to open an issue in the repository or contact [gianpierofiorino@icloud.com](mailto:gianpierofiorino@icloud.com).
-
----
-
-By following these guidelines, you contribute to making this guide a reliable and valuable resource for all users. We appreciate your support!
+### Next Steps
+To secure your home Wi-Fi network effectively, follow the [Step-by-Step Guide](docs/steps.md), which outlines essential security measures and best practices.
