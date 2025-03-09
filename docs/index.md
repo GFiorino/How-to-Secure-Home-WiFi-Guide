@@ -5,7 +5,7 @@ Welcome to the **Home Wi-Fi Security Guide**. This documentation provides step-b
 ## 📖 **Navigation**
 Use the links below to access different sections of the guide:
 
-- [Introduction](../introduction.md)  
+- [Introduction](introduction.md)  
 - [Step-by-Step Guide](steps.md)  
 - [Troubleshooting](troubleshooting.md)  
 - [FAQs](faq.md)  
