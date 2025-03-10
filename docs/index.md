@@ -1,6 +1,7 @@
 # Home Wi-Fi Security Guide
 
-Welcome to the **Home Wi-Fi Security Guide**. This documentation provides step-by-step instructions on securing your Wi-Fi network and troubleshooting common issues.
+Welcome to the **Home Wi-Fi Security Guide**.
+This guide offers a step-by-step approach for installing, configuring, and automating Home Assistant. It is designed for users at all experience levels, ensuring a smooth setup process and troubleshooting support.
 
 ## 📖 **Navigation**
 Use the links below to access different sections of the guide:
