@@ -26,7 +26,7 @@ Encryption protects your network traffic by making it unreadable to unauthorized
 3. Select **WPA3** (or **WPA2** if WPA3 is unavailable).
 4. Save the settings and restart the router.
 
-![WPA3 Security Settings](../images/wpa3-security-settings.png)  
+![WPA3 Security Settings](../images/wpa3-security-setting.png)  
 *Figure 2: Enabling WPA3 encryption in router settings.*
 
 ## 3. Update Your Router Firmware
