@@ -1,4 +1,4 @@
- <img src="images/home-page.png" alt="hoem page image" width="600" style="margin: 20px auto; display: block;">
+ <img src="images/home-page.png" alt="home page image" width="400px" style="margin: 20px auto; display: block;">
 Welcome to the **Home Wi-Fi Security Guide**.
 This guide offers a step-by-step approach for installing, configuring, and automating Home Assistant. It is designed for users at all experience levels, ensuring a smooth setup process and troubleshooting support.
 
