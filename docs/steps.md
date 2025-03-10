@@ -13,7 +13,7 @@ Most routers come with default usernames and passwords that are publicly known, 
 4. Change both the **username** and **password** to unique, strong values.
 5. Save the changes and log out.
 
-![Router Login Page](images/router-login.png)  
+![Router Login Page](/images/router-login.png)  
 *Figure 1: Router login page (192.168.1.1)
 
 ## 2. Enable Strong Encryption (WPA3 or WPA2)
