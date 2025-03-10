@@ -14,7 +14,7 @@ Most routers come with default usernames and passwords that are publicly known, 
 5. Save the changes and log out.
 
 <div style="text-align: center;">
-  <img src="images/router-login.png" alt="Router Login Page" width="600" style="margin: 20px auto; display: block;">
+  <img src="/images/router-login.png" alt="Router Login Page" width="600" style="margin: 20px auto; display: block;">
   <p><em>Figure 1: Router login page (192.168.1.1)</em></p>
 </div>
 
@@ -29,7 +29,7 @@ Encryption protects your network traffic by making it unreadable to unauthorized
 4. Save the settings and restart the router.
 
 <div style="text-align: center;">
-  <img src="images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500" style="margin: 20px auto; display: block;">
+  <img src="/images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500" style="margin: 20px auto; display: block;">
   <p><em>Figure 2: Enabling WPA3 encryption in router settings.</em></p>
 </div>
 
