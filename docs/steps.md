@@ -13,9 +13,9 @@ Most routers come with default usernames and passwords that are publicly known, 
 4. Change both the **username** and **password** to unique, strong values.
 5. Save the changes and log out.
 
-<div style="text-align: center;">
-  <img src="images/router-login.png" alt="Router Login Page" width="600" style="margin: 20px auto; display: block;">
-  <p><em>Figure 1: Router login page (192.168.1.1)</em></p>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/router-login.png" alt="Router Login Page" width="500" style="margin: auto; display: block;">
+  <p style="margin-top: 8px; font-size: 14px; color: #555;"><em>Figure 1: Router login page (192.168.1.1)</em></p>
 </div>
 
 ## 2. Enable Strong Encryption (WPA3 or WPA2)
@@ -28,9 +28,9 @@ Encryption protects your network traffic by making it unreadable to unauthorized
 3. Select **WPA3** (or **WPA2** if WPA3 is unavailable).
 4. Save the settings and restart the router.
 
-<div style="text-align: center;">
-  <img src="images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500" style="margin: 20px auto; display: block;">
-  <p><em>Figure 2: Enabling WPA3 encryption in router settings.</em></p>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500" style="margin: auto; display: block;">
+  <p style="margin-top: 5px;"><em>Figure 2: Enabling WPA3 encryption in router settings.</em></p>
 </div>
 
 ## 3. Update Your Router Firmware
