@@ -13,8 +13,10 @@ Most routers come with default usernames and passwords that are publicly known, 
 4. Change both the **username** and **password** to unique, strong values.
 5. Save the changes and log out.
 
-<img src="images/router-login.png" alt="Router Login Page" width="600">
-*Figure 1: Router login page (192.168.1.1)
+<div style="text-align: center;">
+  <img src="images/router-login.png" alt="Router Login Page" width="600" style="margin: 20px auto; display: block;">
+  <p><em>Figure 1: Router login page (192.168.1.1)</em></p>
+</div>
 
 ## 2. Enable Strong Encryption (WPA3 or WPA2)
 ### Why It’s Important
@@ -26,8 +28,10 @@ Encryption protects your network traffic by making it unreadable to unauthorized
 3. Select **WPA3** (or **WPA2** if WPA3 is unavailable).
 4. Save the settings and restart the router.
 
-<img src="images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500">
-*Figure 2: Enabling WPA3 encryption in router settings.*
+<div style="text-align: center;">
+  <img src="images/wpa3-security-setting.png" alt="WPA3 Security Settings" width="500" style="margin: 20px auto; display: block;">
+  <p><em>Figure 2: Enabling WPA3 encryption in router settings.</em></p>
+</div>
 
 ## 3. Update Your Router Firmware
 ### Why It’s Important
@@ -91,4 +95,3 @@ A firewall protects your network from external threats, while monitoring connect
 ---
 
 By following these steps, you can significantly enhance the security of your home Wi-Fi network. If you encounter issues, refer to the [Troubleshooting](troubleshooting.md) section for solutions.
-
