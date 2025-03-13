@@ -18,3 +18,10 @@ Use the links below to access different sections of the guide:
 - For explanations of key terms, see the [Glossary](glossary.md).  
 
 ---
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://gfiorino.github.io/Technical-Writing-Portfolio/" 
+       style="display: inline-block; padding: 10px 20px; font-size: 1em; font-weight: bold; 
+              color: white; background-color: #1B263B; border-radius: 8px; text-decoration: none;">
+        ← Back to Portfolio
+    </a>
+</div>
