@@ -23,4 +23,4 @@ This guide is designed for:
 - IT beginners and general users who need step-by-step instructions for setting up a secure Wi-Fi connection.
 
 ### Next Steps
-To secure your home Wi-Fi network effectively, follow the [Step-by-Step Guide](docs/steps.md), which outlines essential security measures and best practices.
+To secure your home Wi-Fi network effectively, follow the [Step-by-Step Guide](/docs/steps.md), which outlines essential security measures and best practices.
